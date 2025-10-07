@@ -132,3 +132,4 @@ watchdog==3.0.0
     # via
     #   hatch.envs.docs
     #   mkdocs
+mkdocs-material
